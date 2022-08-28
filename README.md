@@ -2,9 +2,7 @@
 ⚡  I'm an electronic engineer specializing in telecommunications and I love programming.
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
-[![aenrique's 42 stats](https://badge42.vercel.app/api/v2/cl7deq44a00690gmjj4r269zv/stats?cursusId=21&coalitionId=206)]
-
-(https://github.com/JaeSeoKim/badge42)
+[![aenrique's 42 stats](https://badge42.vercel.app/api/v2/cl7deq44a00690gmjj4r269zv/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
 
 - 📫 How to reach me:
   **Building**
