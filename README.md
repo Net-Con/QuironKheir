@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 ⚡  I'm an electronic engineer specializing in telecommunications and I love programming.
 
+## Student at [42 Barcelona](https://www.42barcelona.com/es/)
+[![aenrique's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1kskoh400110alh3fmdtt25?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
+
+- 📫 How to reach me:
+  **Building**
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuironKheir&layout=compact&theme=dark&hide_border=true)
+![QuironKheir's github stats](https://github-readme-stats.vercel.app/api?username=QuironKheir&show_icons=true&hide_border=true&theme=dark)
+
 🌱 I’m currently learning in 42 Barcelona.
 
 <h3 align="left">Languages and Tools:</h3>
